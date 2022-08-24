@@ -85,7 +85,12 @@ PrefabInstance:
     - target: {fileID: 394554719168278859, guid: a46e7e58104a2ab469ac4d8c3b602291,
         type: 3}
       propertyPath: m_Name
-      value: HpBar
+      value: HpBar Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 394554719168278861, guid: a46e7e58104a2ab469ac4d8c3b602291,
+        type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 394554719168278863, guid: a46e7e58104a2ab469ac4d8c3b602291,
         type: 3}
