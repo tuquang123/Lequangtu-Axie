@@ -3505,6 +3505,97 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &1661936335
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1661936336}
+  - component: {fileID: 1661936337}
+  - component: {fileID: 1661936338}
+  m_Layer: 5
+  m_Name: PoupCard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1661936336
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1661936335}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1950465929}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 63.32}
+  m_SizeDelta: {x: 1200, y: 500}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1661936337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1661936335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4735c63c71d2c514f8535558ba797ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  listCard:
+  - {fileID: 6255639915440501737, guid: 12466c7d5c8c24e4985c512482086fcb, type: 3}
+  - {fileID: 4900891328669983171, guid: 1af005bd62899e04bb472105ac3fd34b, type: 3}
+  - {fileID: 3459071357397203140, guid: 1ae5db94c3f88dd4f90b1231b4791b87, type: 3}
+  - {fileID: 4616257141458013029, guid: 6fba427ac00c0264e8fd51a8be795a17, type: 3}
+  - {fileID: 288568002647880781, guid: 6cfe549a510d7a74dbf6a3aad8a2da74, type: 3}
+  - {fileID: 6520525450668950933, guid: dad85d7a3b85bc54e81e1c9928e78526, type: 3}
+  - {fileID: 4107917851479584527, guid: de9bee43b112736488dee561b0b9fcd7, type: 3}
+  - {fileID: 982143008199350362, guid: 266232ba8d780b84c96010edccf2db87, type: 3}
+  - {fileID: 1999537214496205383, guid: d04aa03062bd680408bcd555316a0b93, type: 3}
+  - {fileID: 1769473742480649594, guid: f001a6ee3d4b3244d84ca24d12e2440b, type: 3}
+  - {fileID: 1542046011743870482, guid: 81586c7bd904fbd4282366f1f8d64d5c, type: 3}
+  - {fileID: 3409307979662701004, guid: d6faa762f2c82db42877b52bfaf3638c, type: 3}
+  transform: {fileID: 1661936336}
+  panelSpawnItem: {fileID: 1661936335}
+  cardnumber: 3
+--- !u!114 &1661936338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1661936335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 0
+  m_Spacing: 0
+  m_ChildForceExpandWidth: 1
+  m_ChildForceExpandHeight: 1
+  m_ChildControlWidth: 0
+  m_ChildControlHeight: 0
+  m_ChildScaleWidth: 0
+  m_ChildScaleHeight: 0
+  m_ReverseArrangement: 0
 --- !u!1 &1664321135
 GameObject:
   m_ObjectHideFlags: 0
@@ -4162,6 +4253,7 @@ RectTransform:
   - {fileID: 1656492434}
   - {fileID: 2139634902}
   - {fileID: 1293842196}
+  - {fileID: 1661936336}
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
