@@ -1418,6 +1418,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FreeUI
       objectReference: {fileID: 0}
+    - target: {fileID: 2608797471787421956, guid: d404de7d9ec311347952559edff7cd51,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2608797471787421960, guid: d404de7d9ec311347952559edff7cd51,
         type: 3}
       propertyPath: m_Pivot.x
@@ -1538,16 +1543,37 @@ PrefabInstance:
       propertyPath: fx
       value: 
       objectReference: {fileID: 2608797473595076226}
+    - target: {fileID: 2608797472061586987, guid: d404de7d9ec311347952559edff7cd51,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2608797472061586988, guid: d404de7d9ec311347952559edff7cd51,
         type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1654915583}
+    - target: {fileID: 2608797472567465924, guid: d404de7d9ec311347952559edff7cd51,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4cc9a5a845971482ba3d802b78e4619b,
+        type: 3}
     - target: {fileID: 2608797472567465925, guid: d404de7d9ec311347952559edff7cd51,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1319747131}
+    - target: {fileID: 2608797473328485475, guid: d404de7d9ec311347952559edff7cd51,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7988775458767851462, guid: d404de7d9ec311347952559edff7cd51,
+        type: 3}
+      propertyPath: m_text
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8210875389049021737, guid: d404de7d9ec311347952559edff7cd51,
         type: 3}
       propertyPath: m_PlayOnAwake
