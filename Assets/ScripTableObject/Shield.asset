@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 7
   name: Shield
-  description: Creates a shield to protect the boss
+  description: Creates a shield to protect the player
   sprite: {fileID: 21300000, guid: cfb4746830e106b44b1164d8390f144a, type: 3}

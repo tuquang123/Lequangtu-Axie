@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 2
   name: Bumm
-  description: Creates a powerful aftershock
+  description: Hit the enemy and create an explosion
   sprite: {fileID: 21300000, guid: e0636c4141768854c8c8b3ed975c2691, type: 3}
