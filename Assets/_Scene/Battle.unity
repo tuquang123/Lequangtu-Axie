@@ -1615,12 +1615,12 @@ PrefabInstance:
     - target: {fileID: 8213757870202159053, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8213757870202159053, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8396007329507676723, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
@@ -1630,7 +1630,7 @@ PrefabInstance:
     - target: {fileID: 8396007329507676723, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8396007329507676727, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
@@ -1640,12 +1640,12 @@ PrefabInstance:
     - target: {fileID: 8396007329507676727, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.9
+      value: 7.28
       objectReference: {fileID: 0}
     - target: {fileID: 8396007329507676727, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.06
+      value: -0.97
       objectReference: {fileID: 0}
     - target: {fileID: 8396007329507676727, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
@@ -1695,7 +1695,7 @@ PrefabInstance:
     - target: {fileID: 8396007329507676729, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
       propertyPath: damage
-      value: 3
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8396007329507676729, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
@@ -1705,7 +1705,7 @@ PrefabInstance:
     - target: {fileID: 8396007329507676729, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
       propertyPath: attackRage
-      value: 30
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 8396007329507676729, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
@@ -1715,7 +1715,7 @@ PrefabInstance:
     - target: {fileID: 8396007329507676729, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
       propertyPath: minimumDistance
-      value: 5.5
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9ec9a55dfe7a8544a4ec578f023c1c7, type: 3}
@@ -3614,7 +3614,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1319747131}
         m_TargetAssemblyTypeName: _Scripts.HpPlayer, Assembly-CSharp
-        m_MethodName: Skill3
+        m_MethodName: Skill7Shield
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7500,9 +7500,57 @@ PrefabInstance:
       objectReference: {fileID: 1082582631}
     - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
         type: 3}
+      propertyPath: enemy
+      value: 
+      objectReference: {fileID: 8396007329507676729, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxHp
+      value: 
+      objectReference: {fileID: 8729195755550235661, guid: 5bbe6a3bee121d640b2a939e507f8218,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
       propertyPath: skill3
       value: 
       objectReference: {fileID: 6373888410257493220, guid: 4ad023b64d3b7024ca9d92e18876d58a,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxBumm
+      value: 
+      objectReference: {fileID: 6150055398511755298, guid: 64026e77382443d4f8e1297cfe30386d,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxDame
+      value: 
+      objectReference: {fileID: 3019143720092047622, guid: 7bd8a468aa06c1744a4cb49b68097209,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxLand
+      value: 
+      objectReference: {fileID: 2932695519674447457, guid: fac06a3bd8f0bca4ead47d12b3b01179,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxRain
+      value: 
+      objectReference: {fileID: 2362489826541829541, guid: c14e74d678e34794097062940d19e35b,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxLight
+      value: 
+      objectReference: {fileID: 5115141191214384752, guid: 75f38d4c7a205b642abffb48834f7062,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxWater
+      value: 
+      objectReference: {fileID: 1998392605799385963, guid: 0425a7217fb1c50499983da818e93444,
         type: 3}
     - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
         type: 3}
@@ -7512,9 +7560,27 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
         type: 3}
+      propertyPath: vfxShield
+      value: 
+      objectReference: {fileID: 6373888410257493220, guid: 4ad023b64d3b7024ca9d92e18876d58a,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxWinter
+      value: 
+      objectReference: {fileID: 2261994743107340217, guid: 7196b83c716d3f64590b69c0a7acee10,
+        type: 3}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
       propertyPath: skillPanel
       value: 
       objectReference: {fileID: 1995756991}
+    - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: vfxThunder
+      value: 
+      objectReference: {fileID: 1325622542492685312, guid: 82839b7d022e52843b049ff581409c87,
+        type: 3}
     - target: {fileID: 6165460409368920908, guid: 1bf26164110252e4981ddef71fb48bef,
         type: 3}
       propertyPath: cameraShake
@@ -7708,6 +7774,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396007329507676729, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
+        type: 3}
+      propertyPath: damage
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8396007329507676729, guid: f9ec9a55dfe7a8544a4ec578f023c1c7,
         type: 3}
