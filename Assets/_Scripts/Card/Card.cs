@@ -2,23 +2,18 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
+using Observer;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UIElements;
 
 public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , IPointerClickHandler
 {
-    [SerializeField] private string id;
+    [SerializeField] public string id;
     [SerializeField] private bool _isSelect;
     [SerializeField] private bool _isInteractable;
     
-
-    private void Start()
-    {
-        _isSelect = false;
-        _isInteractable = true;
-     
-    }
+    
     
 
     public void OnPointerEnter(PointerEventData eventData)
@@ -50,24 +45,43 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
         
         if (!_isSelect)
         {
-            Debug.Log("select card");
-            _isSelect = true;
-
+            SelectCard();
             return;
         }
 
         if (_isSelect)
         {
-            Debug.Log("use skill");
+            UseSkill();
+            return;
 
-            //dung skill
-            // animattion
-            //destroy
         }
     }
 
     private void EnableCard(bool isEnable)
     {
         _isInteractable = isEnable;
+    }
+
+    private void SelectCard()
+    {
+        Debug.Log("select card");
+        _isSelect = true;
+        this.PostEvent(EventID.OnSelectCard, this);
+    }
+
+    private void UseSkill()
+    {
+        Debug.Log("use skill");
+        this.PostEvent(EventID.OnUseCard, this);
+        Destroy(this.gameObject);
+    }
+
+    public void SetSelectable(bool isSelectable)
+    {
+        _isSelect = isSelectable;
+    }
+    public void SetInteractable(bool isInteractables)
+    {
+        _isInteractable = isInteractables;
     }
 }

@@ -1,38 +1,102 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
+using Random = UnityEngine.Random;
+using Observer;
 
 public class CardManager : MonoBehaviour
 {
+    [SerializeField] private GameManagerFlow _gameManagerFlow; 
     [SerializeField] private List<Card> _cardPool;
-    [SerializeField] private GameObject _selectCardPanel;
+    [SerializeField] private GameObject _randomCardPanel;
     [SerializeField] private GameObject _playerCardPanel;
+    [SerializeField] private List<Card> _randomCards;
     [SerializeField] private List<Card> _playerCards;
-        
-        
-    // Start is called before the first frame update
-    void Start()
+
+    private void Awake()
     {
-        OnGameStart();
+        this.RegisterListener(EventID.OnWaveStart, (param) => CardStart());
+        
+        this.RegisterListener(EventID.OnSelectCard, (param) => SelectCard((Card)param));
+        this.RegisterListener(EventID.OnUseCard, (param) => UseCard((Card)param));
+        
+        HideRandomPanel();
     }
 
-    // Update is called once per frame
-    void Update()
+    void CardStart()
     {
-        
+        if(_gameManagerFlow.waveLevel ==1)
+        {
+            GivePlayerCards();
+        }
+        else
+        {
+            ShowRandomPanel();
+        }
     }
 
-    public void OnGameStart()
+    public void GivePlayerCards()
     {
-        _selectCardPanel.SetActive(false);
-        
+        _randomCardPanel.SetActive(false);
+
         //give player 3 cards
-        for (int i = 0; i < 3; i++)
+        int cardCount = 3;
+        
+        for (int i = 0; i < cardCount; i++)
         {
             var rd =Random.Range(0, _cardPool.Count);
-            Instantiate(_cardPool[rd].gameObject, _playerCardPanel.transform);
+            SelectCard(_cardPool[rd]);
         }
-        
-        
     }
+
+    private void ShowRandomPanel()
+    {
+        _randomCardPanel.SetActive(true);
+        
+        //show player 3 cards
+        int cardCount = 3;
+
+        for (int i = 0; i < cardCount; i++)
+        {
+            var rd =Random.Range(0, _cardPool.Count);
+            var card = Instantiate(_cardPool[rd], _randomCardPanel.transform);
+            card.SetSelectable(false);
+            card.SetInteractable(true);
+            _randomCards.Add(card);
+        }
+    }
+    
+    private void HideRandomPanel()
+    {
+        _randomCardPanel.SetActive(false);
+
+        foreach (var card in _randomCards)
+        {
+            Destroy(card.gameObject);
+           
+        }
+
+        _randomCards.Clear();
+
+    }
+    
+    private void SelectCard(Card card)
+    {
+        var myCard = Instantiate(card, _playerCardPanel.transform);
+        myCard.SetSelectable(true);
+        myCard.SetInteractable(true);
+        _playerCards.Add(myCard);
+
+        HideRandomPanel();
+    }
+
+    private void UseCard(Card card)
+    {
+        _playerCards.Remove(card);
+       
+    }
+
+    
 }

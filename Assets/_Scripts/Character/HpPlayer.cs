@@ -2,6 +2,7 @@ using Spine.Unity;
 using UnityEngine;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
+using Observer;
 
 namespace _Scripts
 {
@@ -68,6 +69,7 @@ namespace _Scripts
         private void Awake()
         {
             _skeletonAnimation = gameObject.GetComponentInChildren<SkeletonAnimation>();
+            this.RegisterListener((EventID.OnUseCard), (param) =>UseSkill((Card)param));
         }
         private void Start()
         {
@@ -161,6 +163,36 @@ namespace _Scripts
                 player.Attack(15);
             }
 
+        }
+
+        private void UseSkill(Card card)
+        {
+            if (card.id == "skill2")
+            {
+                Skill2();
+            }
+            if (card.id == "skill3")
+            {
+                Skill3();
+            }
+        }
+        public void Skill2()
+        {
+            player.onAttack = true;
+            Instantiate(skill3, transform.position, Quaternion.identity);
+            Instantiate(skill3,player.target.transform.position,Quaternion.identity);
+                
+            //animation
+            _skeletonAnimation.timeScale = 0.5f;
+            _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+            Debug.Log("attack/ranged/cast-fly");
+            _mana3 = 0;
+            //panel
+            skillPanel.SetActive(true);
+            Invoke(nameof(Disable), 2f);
+            //dame
+            player.Attack(15);
+        
         }
         //call to button 
         public void Skill3()
