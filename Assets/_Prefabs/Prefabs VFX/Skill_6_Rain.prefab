@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 2362489824685004720}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4, y: 1.4, z: 1}
   m_Children: []
   m_Father: {fileID: 2362489826516655397}
   m_RootOrder: 0
@@ -61,7 +61,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5896002c5a6f945db8c8757c2646df13, type: 2}
+  - {fileID: 2100000, guid: 5d1cf4f64cdb14176a9f7759eb469ee9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -95,7 +95,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 97d63cdc7c9994c2d9300f92e1d8aad8, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: bfc1c04150e044701b3e4a342fa5d7f9, type: 2}
   initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0
@@ -202,7 +202,7 @@ Transform:
   m_GameObject: {fileID: 2362489826541829541}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4, y: 1.4, z: 1}
   m_Children:
   - {fileID: 2362489826516655397}
   m_Father: {fileID: 0}
