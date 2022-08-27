@@ -1,3 +1,4 @@
+using Observer;
 using Spine.Unity;
 using UnityEngine;
 using UnityEngine.Serialization;
@@ -6,6 +7,7 @@ namespace _Scripts
 {
     public sealed class Player : MonoBehaviour
     {
+        [SerializeField] private bool isActive = true;
         private SkeletonAnimation _skeletonAnimation;
         public float speed = 3f;
         public Transform target;
@@ -28,6 +30,18 @@ namespace _Scripts
         private void Awake()
         {
             _skeletonAnimation = gameObject.GetComponentInChildren<SkeletonAnimation>();
+            this.RegisterListener(EventID.OnShowCard, (param) => Stop());
+            this.RegisterListener(EventID.OnStopShowCard, (param) => Continue());
+        }
+
+        void Stop()
+        {
+            isActive = false;
+        }
+
+        void Continue()
+        {
+            isActive = true;
         }
 
         public void Win()
@@ -37,6 +51,8 @@ namespace _Scripts
         }
         public void FixedUpdate()
         {
+            if (!isActive) return;
+            
             Turning();
             FindEnemy();
             IsTargetTooFar();

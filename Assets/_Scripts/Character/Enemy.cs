@@ -2,6 +2,7 @@ using Spine.Unity;
 using System.Collections;
 using System.Collections.Generic;
 using _Scripts;
+using Observer;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
@@ -21,10 +22,25 @@ public class Enemy : MonoBehaviour
     [HideInInspector] public float nextAttackTime = 0f;
     [HideInInspector] public Vector3 targetDir;
 
+    [SerializeField] private bool isActive = true;
+
     private void Awake()
     {
         skeletonAnimation = gameObject.GetComponentInChildren<SkeletonAnimation>();
+        this.RegisterListener(EventID.OnShowCard, (param) => Stop());
+        this.RegisterListener(EventID.OnStopShowCard, (param) => Continue());
     }
+    
+    void Stop()
+    {
+        isActive = false;
+    }
+
+    void Continue()
+    {
+        isActive = true;
+    }
+    
     public void Attack(int dame)
     {
         //Nhan dien enemy va attack
@@ -55,6 +71,8 @@ public class Enemy : MonoBehaviour
     }
     private void FixedUpdate()
     {
+        if(!isActive) return;
+        
         Turning();
         if (target == null)
         {

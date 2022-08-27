@@ -68,6 +68,7 @@ public class CardManager : MonoBehaviour
 
     private void ShowRandomPanel()
     {
+        this.PostEvent(EventID.OnShowCard);
         _randomCardPanel.SetActive(true);
         
         //show player 3 cards
@@ -88,6 +89,7 @@ public class CardManager : MonoBehaviour
     private void HideRandomPanel()
     {
         _randomCardPanel.SetActive(false);
+        this.PostEvent(EventID.OnStopShowCard);
 
         foreach (var card in _randomCards)
         {

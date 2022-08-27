@@ -9,5 +9,7 @@ public enum EventID
    OnWaveStart,
    OnSelectCard,
    OnUseCard,
+   OnShowCard,
+   OnStopShowCard,
 	
 }
