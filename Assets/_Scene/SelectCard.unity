@@ -437,6 +437,7 @@ MonoBehaviour:
   _cardPref: {fileID: 5410145670619971812, guid: ba2475eec53e74223bb264b73b38b279,
     type: 3}
   _startBtn: {fileID: 62144178}
+  _readyVFX: {fileID: 796135091}
 --- !u!114 &291720274
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -661,7 +662,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &796135092
 Transform:
   m_ObjectHideFlags: 0
@@ -789,7 +790,7 @@ GameObject:
   - component: {fileID: 822205202}
   - component: {fileID: 822205201}
   m_Layer: 5
-  m_Name: StartButton (1)
+  m_Name: Instruction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

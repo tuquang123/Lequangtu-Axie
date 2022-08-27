@@ -21,6 +21,7 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
     [SerializeField] private TMP_Text m_name;
     [SerializeField] private TMP_Text m_description;
     [SerializeField] private GameObject _blackCover;
+    [SerializeField] private GameObject _checkMark;
     public void SetData(CardID cardID)
     {
         var cardData = _cardDataConfig.GetValueFromKey(cardID);
@@ -73,6 +74,7 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
         if (_isSelect)
         {
             UseSkill();
+            SetInteractable(false);
             return;
 
         }
@@ -135,6 +137,11 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
         _blackCover.SetActive(isCover);
     }
     
+    public void SetCheckMark(bool isMark)
+    {
+        _checkMark.SetActive(isMark);
+    }
+    
     private void SelectInMenuMode()
     {
         Debug.Log("click");
@@ -147,6 +154,7 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
         
         _isSelectInMenuMode = !_isSelectInMenuMode;
         SetBlackCover(!_isSelectInMenuMode);
+        SetCheckMark(_isSelectInMenuMode);
         this.PostEvent(EventID.OnSelectCard, this.id);
 
     }

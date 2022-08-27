@@ -15,6 +15,7 @@ public class CardCollection : MonoBehaviour
     [SerializeField] private Card _cardPref;
     
     [SerializeField] private Button _startBtn;
+    [SerializeField] private GameObject _readyVFX;
 
     private void Awake()
     {
@@ -43,6 +44,7 @@ public class CardCollection : MonoBehaviour
             myCard.SetInteractable(true);
             myCard.SetIsInMenuMode();
             myCard.SetBlackCover(true);
+            myCard.SetCheckMark(false);
         }
     }
     
@@ -61,6 +63,7 @@ public class CardCollection : MonoBehaviour
         }
         
         _startBtn.enabled = s_selectedCards.Count == s_maxCard;
+        _readyVFX.SetActive(s_selectedCards.Count == s_maxCard);
     }
 
 }
