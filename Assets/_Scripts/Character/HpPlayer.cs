@@ -44,10 +44,7 @@ namespace _Scripts
         public float maxMana2 = 5; //hp 
         public float maxMana3 = 5; //Boom
         
-        //Bool Skill
-        public bool skillActive1;
-        public bool skillActive2;
-        public bool skillActive3;
+        
         public bool skillActiveMain;
         public GameObject activeWhenButtonCall;
         readonly bool _skillAfterActive;
@@ -89,80 +86,7 @@ namespace _Scripts
             _mana3 += 1f * Time.deltaTime;
             _mana3 = Mathf.Clamp(_mana3, 0f, maxMana3);
             
-            //Skill 1 
-            if (_mana == maxMana && skillActive1)
-            {
-                //audio 
-                fire.Play();
-
-                //active
-                skillPanel.SetActive(true);
-                skillImage1.SetActive(true);
-                player.onAttack = true;
-                
-                //instantiate
-                Instantiate(skill,transform.position,Quaternion.identity);
-                Instantiate(fxExplosive,player.target.transform.position,Quaternion.identity);
-                
-                //animation
-                _skeletonAnimation.timeScale = 0.6f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "defense/evade", false); // shot
-                Debug.Log("defense/evade");
-                
-                //reset mana
-                _mana = 0;
-                
-                Invoke(nameof(Disable), 1.5f);
-                //dame
-                player.Attack(10);
-            }
             
-            //skill 2 
-            else if (_mana2 == maxMana2 && skillActive2)
-            {
-                healing.Play();
-                skill2.SetActive((true));
-                player.onAttack = true;
-                skillImage2.SetActive(true);
-                Instantiate(skill2, transform.position, Quaternion.identity);
-                Instantiate(fxPlazma, transform.position, Quaternion.identity);
-                //animation
-                _skeletonAnimation.timeScale = 0.6f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "battle/get-buff", false);
-                Debug.Log("battle/get-buff");
-                _mana2 = 0;
-                //panel
-                skillPanel.SetActive(true);
-                Invoke(nameof(Disable2), 1.5f);
-                //dame
-                //player.AttackSkill();
-                int hp = 5;
-                _currentHealth += hp;
-                if (floatTextHpPrefab && _currentHealth > 0)
-                {
-                    ShowFloatingTextHp(hp.ToString());
-                }
-            }
-            //skill3
-            else if (_mana3 == maxMana3 && skillActive3)
-            {
-                
-                player.onAttack = true;
-                Instantiate(skill3, transform.position, Quaternion.identity);
-                Instantiate(skill3,player.target.transform.position,Quaternion.identity);
-                
-                //animation
-                _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
-                Debug.Log("attack/ranged/cast-fly");
-                _mana3 = 0;
-                //panel
-                skillPanel.SetActive(true);
-                Invoke(nameof(Disable), 2f);
-                //dame
-                player.Attack(15);
-            }
-
         }
 
         private void UseSkill(Card card)
@@ -180,7 +104,7 @@ namespace _Scripts
         {
             player.onAttack = true;
             Instantiate(skill3, transform.position, Quaternion.identity);
-            Instantiate(skill3,player.target.transform.position,Quaternion.identity);
+            Instantiate(fxExplosive,player.target.transform.position,Quaternion.identity);
                 
             //animation
             _skeletonAnimation.timeScale = 0.5f;

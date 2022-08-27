@@ -8,4 +8,6 @@ public class FxDestroy : MonoBehaviour
     {
         Destroy(gameObject, 1.4f);
     }
+
+    
 }
