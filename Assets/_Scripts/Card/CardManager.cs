@@ -87,7 +87,7 @@ public class CardManager : MonoBehaviour
     private void SelectCard(CardID id)
     {
         var myCard = Instantiate(_cardPref, _playerCardPanel.transform);
-        _cardPref.SetData(id);
+        myCard.SetData(id);
         myCard.SetSelectable(true);
         myCard.SetInteractable(true);
         _playerCards.Add(myCard);

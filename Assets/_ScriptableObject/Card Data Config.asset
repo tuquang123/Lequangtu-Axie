@@ -13,52 +13,52 @@ MonoBehaviour:
   m_Name: Card Data Config
   m_EditorClassIdentifier: 
   list:
-  - id: 9
+  - id: 0
     cardData:
       name: Winter
       description: Create a whirlwind
       sprite: {fileID: 21300000, guid: d2e7feb2d0e4889489ec3fc4efbef782, type: 3}
-  - id: 0
+  - id: 1
     cardData:
       name: Bumm
       description: Hit the enemy and create an explosion
       sprite: {fileID: 21300000, guid: e0636c4141768854c8c8b3ed975c2691, type: 3}
-  - id: 1
+  - id: 2
     cardData:
       name: Dame
       description: Power up the player
       sprite: {fileID: 21300000, guid: fca32ada8407df647b4f5cc60e74be60, type: 3}
-  - id: 2
+  - id: 3
     cardData:
       name: Hp
       description: Heal the player
       sprite: {fileID: 21300000, guid: 7a93019adce208b47bbc0ca6cd59025c, type: 3}
-  - id: 3
+  - id: 4
     cardData:
       name: Land
       description: Create an earthquake
       sprite: {fileID: 21300000, guid: ffb608946d50edb4e861eb3bf2865406, type: 3}
-  - id: 4
+  - id: 5
     cardData:
       name: Light
       description: Creates a beam of light that pierces the enemy
       sprite: {fileID: 21300000, guid: 0261a04875cd7ce42bfc1586d940f6ff, type: 3}
-  - id: 5
+  - id: 6
     cardData:
       name: Rain
       description: Creates a rain that damages the enemy
       sprite: {fileID: 21300000, guid: a2e72ed9227f4a74aa1250b8862c9be5, type: 3}
-  - id: 6
+  - id: 7
     cardData:
       name: Shield
       description: Creates a shield to protect the player
       sprite: {fileID: 21300000, guid: cfb4746830e106b44b1164d8390f144a, type: 3}
-  - id: 7
+  - id: 8
     cardData:
       name: Thunder
       description: Create a thunder set
       sprite: {fileID: 21300000, guid: 2ddc6d07d8bd0154887a615ecf2af1e5, type: 3}
-  - id: 8
+  - id: 9
     cardData:
       name: Water
       description: Creates a water ball that damages the enemy

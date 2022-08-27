@@ -1,15 +1,15 @@
 public enum CardID
 {
-    Bumm = 0,
-    Dame = 1,
-    Hp = 2,
-   Land = 3,
-    Light = 4,
-    Rain = 5,
-    Shield = 6,
-    Thunder = 7,
-    Water = 8,
-    Winter = 9
+    Winter = 0,
+    Bumm = 1,
+    Dame = 2,
+    Hp = 3,
+    Land = 4,
+    Light = 5,
+    Rain = 6,
+    Shield = 7,
+    Thunder = 8,
+    Water = 9
 }
 
 

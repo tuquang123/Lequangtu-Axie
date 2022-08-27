@@ -21,6 +21,7 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
     public void SetData(CardID cardID)
     {
         var cardData = _cardDataConfig.GetValueFromKey(cardID);
+        id = cardID;
         m_name.text = cardData.name;
         m_description.text = cardData.description;
         this.GetComponent<Image>().sprite = cardData.sprite;
