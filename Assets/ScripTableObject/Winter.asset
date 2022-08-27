@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aaae13b406647b40b2f93db43ec1757, type: 3}
+  m_Name: Winter
+  m_EditorClassIdentifier: 
+  id: 10
+  name: Winter
+  description: Create a whirlwind
+  sprite: {fileID: 21300000, guid: d2e7feb2d0e4889489ec3fc4efbef782, type: 3}
