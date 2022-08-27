@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using _Scripts;
+using Observer;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -14,12 +15,47 @@ public class EnemyList : MonoBehaviour
     public static EnemyList enemyList;
     public UiManager uiManager;
     bool win;
+
+    [SerializeField] private GameManagerFlow _gameManagerFlow;
+
+    [System.Serializable]
+    public class EnemyWave
+    {
+        public List<GameObject> enemies;
+    }
+    
+    public List<Transform> objects = new List<Transform>();
+
+    [SerializeField] private List<EnemyWave> enemyPref;
     private void Awake()
     {
         enemyList = this;
     }
 
-    public List<Transform> objects = new List<Transform>();
+    
+
+    private void SpawnEnemy()
+    {
+        if (enemyPref.Count > 0)
+        {
+            var mylist = enemyPref[0];
+           
+            foreach (var enemy in mylist.enemies)
+            {
+                enemy.SetActive(true);
+                objects.Add(enemy.transform);
+            }
+            enemyPref.RemoveAt(0);
+            
+            _gameManagerFlow.IncreaseWaveLevel();
+            return;
+        }
+
+        if (enemyPref.Count == 0)
+        {
+            Debug.Log("On Win");
+        }
+    }
     void RemoveList()
     {
         for (int i = 0; i < objects.Count; i++)
@@ -34,14 +70,15 @@ public class EnemyList : MonoBehaviour
     {
         if (objects.Count == 0)
         {
+            SpawnEnemy();
             //playerClass.Win();
            
-            if (!win)
-            {
-                Invoke("Active", 2f);
-                //uiManager.PanelFadeIn(2);
-            }
-            win = true;
+            // if (!win)
+            // {
+            //     Invoke("Active", 2f);
+            //     //uiManager.PanelFadeIn(2);
+            // }
+            // win = true;
             //Invoke(nameof(ActiveLoading), 10f);
         }
     }

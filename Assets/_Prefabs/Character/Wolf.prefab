@@ -333,7 +333,7 @@ MonoBehaviour:
   fx: {fileID: 100000, guid: 3156817f64ec68948ad6bb26569b9ef5, type: 3}
   hPBar: {fileID: 879679066727955916}
   textHp: {fileID: 928411657191598304}
-  health: 500
+  health: 200
 --- !u!114 &928411657081296796
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -632,6 +632,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Monster_67_Ghost
+      objectReference: {fileID: 0}
+    - target: {fileID: 5778124364085512327, guid: 8f6887a93a2bcc048864e5869da27bb4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f6887a93a2bcc048864e5869da27bb4, type: 3}

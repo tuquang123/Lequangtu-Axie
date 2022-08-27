@@ -44,17 +44,26 @@ public class CardManager : MonoBehaviour
 
         //give player 3 cards
         int cardCount = 3;
-        
-        // for (int i = 0; i < cardCount; i++)
-        // {
-        //     var rd =Random.Range(0, _cardPool.Count);
-        //     SelectCard((CardID)rd);
-        // }
 
-        foreach (var cardID in CardCollection.s_selectedCards)
+
+        if (CardCollection.s_selectedCards == null)
         {
-            SelectCard((CardID)cardID);
+            for (int i = 0; i < cardCount; i++)
+            {
+                var rd =Random.Range(0, _cardPool.Count);
+                SelectCard((CardID)rd);
+            }
         }
+        else
+        {
+            foreach (var cardID in CardCollection.s_selectedCards)
+            {
+                SelectCard((CardID)cardID);
+            }
+        }
+        
+
+        
     }
 
     private void ShowRandomPanel()
@@ -71,6 +80,7 @@ public class CardManager : MonoBehaviour
             card.SetData((CardID)rd);
             card.SetSelectable(false);
             card.SetInteractable(true);
+            card.SetBlackCover(false);
             _randomCards.Add(card);
         }
     }
