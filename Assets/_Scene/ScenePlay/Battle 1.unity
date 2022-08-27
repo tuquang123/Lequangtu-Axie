@@ -7065,7 +7065,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraShake: {fileID: 1654915582}
-  _bossEffect: {fileID: 1715679634}
   player: {fileID: 695845908}
   loading: {fileID: 1293842197}
   uiManager: {fileID: 1656492438}
@@ -10313,7 +10312,16 @@ MonoBehaviour:
   fadeTime: 0.5
   canvasGroup: {fileID: 1950465930}
   rectTransform: {fileID: 1950465929}
-  items: []
+  items:
+  - {fileID: 859712372}
+  - {fileID: 852445298}
+  - {fileID: 392517773}
+  - {fileID: 1878957635}
+  - {fileID: 1187095278}
+  - {fileID: 109439455}
+  - {fileID: 1000460488}
+  - {fileID: 1191189681}
+  - {fileID: 103200483}
 --- !u!82 &1950465932
 AudioSource:
   m_ObjectHideFlags: 0
@@ -10997,7 +11005,7 @@ PrefabInstance:
     - target: {fileID: 928411657081296786, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.44
+      value: 6.17
       objectReference: {fileID: 0}
     - target: {fileID: 928411657081296790, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}

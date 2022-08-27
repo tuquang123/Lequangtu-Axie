@@ -9,8 +9,6 @@ using UnityEngine.SceneManagement;
 public class EnemyList : MonoBehaviour
 {
     public CameraShake cameraShake;
-    [SerializeField] private GameObject _bossEffect;
-    
     //public GameObject panelWaning;
     public GameObject player;
     public GameObject loading;
@@ -39,13 +37,6 @@ public class EnemyList : MonoBehaviour
 
     private void SpawnEnemy()
     {
-        if (enemyPref.Count == 1)
-        {
-            //trigger boss
-            cameraShake.anm.SetTrigger("camboss");
-            _bossEffect.SetActive(true);
-            Destroy(_bossEffect.gameObject,1f);
-        }
         if (enemyPref.Count > 0)
         {
             var mylist = enemyPref[0];
