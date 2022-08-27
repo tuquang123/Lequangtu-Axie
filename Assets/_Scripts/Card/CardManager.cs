@@ -9,7 +9,8 @@ using Observer;
 public class CardManager : MonoBehaviour
 {
     [SerializeField] private GameManagerFlow _gameManagerFlow; 
-    [SerializeField] private List<Card> _cardPool;
+    [SerializeField] private List<CardID> _cardPool;
+    [SerializeField] private Card _cardPref;
     [SerializeField] private GameObject _randomCardPanel;
     [SerializeField] private GameObject _playerCardPanel;
     [SerializeField] private List<Card> _randomCards;
@@ -19,7 +20,7 @@ public class CardManager : MonoBehaviour
     {
         this.RegisterListener(EventID.OnWaveStart, (param) => CardStart());
         
-        this.RegisterListener(EventID.OnSelectCard, (param) => SelectCard((Card)param));
+        this.RegisterListener(EventID.OnSelectCard, (param) => SelectCard((CardID)param));
         this.RegisterListener(EventID.OnUseCard, (param) => UseCard((Card)param));
         
         HideRandomPanel();
@@ -47,7 +48,7 @@ public class CardManager : MonoBehaviour
         for (int i = 0; i < cardCount; i++)
         {
             var rd =Random.Range(0, _cardPool.Count);
-            SelectCard(_cardPool[rd]);
+            SelectCard((CardID)rd);
         }
     }
 
@@ -61,7 +62,8 @@ public class CardManager : MonoBehaviour
         for (int i = 0; i < cardCount; i++)
         {
             var rd =Random.Range(0, _cardPool.Count);
-            var card = Instantiate(_cardPool[rd], _randomCardPanel.transform);
+            var card = Instantiate(_cardPref, _randomCardPanel.transform);
+            card.SetData((CardID)rd);
             card.SetSelectable(false);
             card.SetInteractable(true);
             _randomCards.Add(card);
@@ -82,9 +84,10 @@ public class CardManager : MonoBehaviour
 
     }
     
-    private void SelectCard(Card card)
+    private void SelectCard(CardID cardId)
     {
-        var myCard = Instantiate(card, _playerCardPanel.transform);
+        var myCard = Instantiate(_cardPref, _playerCardPanel.transform);
+        _cardPref.SetData(cardId);
         myCard.SetSelectable(true);
         myCard.SetInteractable(true);
         _playerCards.Add(myCard);

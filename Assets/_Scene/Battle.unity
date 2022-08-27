@@ -2505,9 +2505,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _gameManagerFlow: {fileID: 482813028}
-  _cardPool:
-  - {fileID: 5410145670619971812, guid: ba2475eec53e74223bb264b73b38b279, type: 3}
-  - {fileID: 5410145670619971812, guid: c2bad64bc44c2cf48b48dab36b9ce255, type: 3}
+  _cardPool: 000000000100000002000000
+  _cardPref: {fileID: 5410145670619971812, guid: ba2475eec53e74223bb264b73b38b279,
+    type: 3}
   _randomCardPanel: {fileID: 1191189681}
   _playerCardPanel: {fileID: 103200483}
   _randomCards: []

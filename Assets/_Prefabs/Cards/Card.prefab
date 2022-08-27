@@ -229,6 +229,9 @@ MonoBehaviour:
   id: skill2
   _isSelect: 0
   _isInteractable: 0
+  _cardDataConfig: {fileID: 11400000, guid: c1f458160c3e66941801eed96eb51877, type: 2}
+  m_name: {fileID: 3170725011145920093}
+  m_description: {fileID: 4858066554317562507}
 --- !u!114 &4338736194965376854
 MonoBehaviour:
   m_ObjectHideFlags: 0
