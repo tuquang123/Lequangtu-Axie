@@ -26,7 +26,7 @@ namespace _Scripts
 
         IEnumerator g2(int index)
         {
-            yield return new WaitForSeconds(2f);
+            yield return new WaitForSeconds(0);
             SceneManager.LoadScene(index);
         }
     }

@@ -191,7 +191,7 @@ namespace _Scripts
         // Script Skill                
         public void Skill1Bumm()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -213,7 +213,7 @@ namespace _Scripts
         }
         public void Skill2Dame()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -232,7 +232,7 @@ namespace _Scripts
         }
         public void Skill3Hp()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -252,7 +252,7 @@ namespace _Scripts
         }
         public void Skill4Land()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -274,7 +274,7 @@ namespace _Scripts
         }
         public void Skill5Light()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -296,7 +296,7 @@ namespace _Scripts
         }
         public void Skill6Rain()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -318,7 +318,7 @@ namespace _Scripts
         }
         public void Skill7Shield()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -336,7 +336,7 @@ namespace _Scripts
         }
         public void Skill8Thunder()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -358,7 +358,7 @@ namespace _Scripts
         }
         public void Skill9Water()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);
@@ -380,7 +380,7 @@ namespace _Scripts
         }
         public void Skill10Winter()
         {
-                cameraShake.Shake();
+                //cameraShake.Shake();
                 thurder.Play();
 
                 activeWhenButtonCall.SetActive(true);

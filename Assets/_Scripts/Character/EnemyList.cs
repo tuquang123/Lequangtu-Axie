@@ -54,6 +54,13 @@ public class EnemyList : MonoBehaviour
         if (enemyPref.Count == 0)
         {
             Debug.Log("On Win");
+            if (!win)
+            {
+                Invoke("Active", 2f);
+                //uiManager.PanelFadeIn(2);
+            }
+            win = true;
+            Invoke(nameof(ActiveLoading), 10f);
         }
     }
     void RemoveList()
@@ -72,14 +79,6 @@ public class EnemyList : MonoBehaviour
         {
             SpawnEnemy();
             //playerClass.Win();
-           
-            // if (!win)
-            // {
-            //     Invoke("Active", 2f);
-            //     //uiManager.PanelFadeIn(2);
-            // }
-            // win = true;
-            //Invoke(nameof(ActiveLoading), 10f);
         }
     }
     public void Active()
