@@ -12,6 +12,7 @@ namespace _Scripts
       [Header("Class")] 
         public CameraShake        cameraShake;
         public Player             player;
+        public Enemy              enemy;
         private SkeletonAnimation _skeletonAnimation;
         public ManaBar            manaBar;
         public HPBar              hPBar;
@@ -32,7 +33,19 @@ namespace _Scripts
         public GameObject floatTextHpPrefab;
         public GameObject deathEffect;
         public GameObject fx;
-        
+
+        //VFX Skill
+        public GameObject vfxBumm;
+        public GameObject vfxDame;
+        public GameObject vfxHp;
+        public GameObject vfxLand;
+        public GameObject vfxLight;
+        public GameObject vfxRain;
+        public GameObject vfxShield;
+        public GameObject vfxThunder;
+        public GameObject vfxWater;
+        public GameObject vfxWinter;
+
         //variable
         [Header("variable")]
         int         _currentHealth;
@@ -190,6 +203,237 @@ namespace _Scripts
                 ShowFloatingText(damage.ToString());
             }
         }
+
+        // Script Skill                
+        public void Skill1Bumm()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+                Instantiate(vfxBumm, player.target.transform.position, Quaternion.identity);
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+                //dame
+                player.Attack(20);
+                skillActiveMain = true;
+            }
+        }
+        public void Skill2Dame()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+
+                Instantiate(vfxDame, transform.position, Quaternion.identity);
+                player.damage += 5;
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+
+            }
+        }
+        public void Skill3Hp()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+
+                Instantiate(vfxHp, transform.position, Quaternion.identity);
+                int hp = 50;
+                _currentHealth += hp;
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+            }
+        }
+        public void Skill4Land()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+                Instantiate(vfxLand, player.target.transform.position, Quaternion.identity);
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+                //dame
+                player.Attack(20);
+                skillActiveMain = true;
+            }
+        }
+        public void Skill5Light()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+                Instantiate(vfxLight, player.target.transform.position, Quaternion.identity);
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+                //dame
+                player.Attack(25);
+                skillActiveMain = true;
+            }
+        }
+        public void Skill6Rain()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+                Instantiate(vfxRain, player.target.transform.position, Quaternion.identity);
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+                //dame
+                player.Attack(25);
+                skillActiveMain = true;
+            }
+        }
+        public void Skill7Shield()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+                Instantiate(vfxShield, transform.position, Quaternion.identity);
+                enemy.damage -= 3;
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+            }
+        }
+        public void Skill8Thunder()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+                Instantiate(vfxThunder, player.target.transform.position, Quaternion.identity);
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+                //dame
+                player.Attack(25);
+                skillActiveMain = true;
+            }
+        }
+        public void Skill9Water()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+                Instantiate(vfxWater, player.target.transform.position, Quaternion.identity);
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+                //dame
+                player.Attack(20);
+                skillActiveMain = true;
+            }
+        }
+        public void Skill10Winter()
+        {
+            if (!_skillAfterActive && !skillActiveMain)
+            {
+                cameraShake.Shake();
+                thurder.Play();
+
+                activeWhenButtonCall.SetActive(true);
+                player.onAttack = true;
+                Instantiate(vfxWinter, player.target.transform.position, Quaternion.identity);
+
+                //animation
+                _skeletonAnimation.timeScale = 0.5f;
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _mana3 = 0;
+                //panel
+                skillPanel.SetActive(true);
+                Invoke(nameof(Disable), 2f);
+                //dame
+                player.Attack(30);
+                skillActiveMain = true;
+            }
+        }
+
 
         void Die()
         {

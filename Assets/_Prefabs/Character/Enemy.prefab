@@ -508,7 +508,7 @@ MonoBehaviour:
   speed: 1.5
   minimumDistance: 2.5
   attackRate: 0.45
-  damage: 3
+  damage: 6
   attackRage: 2.5
   nextAttackTime: 0
   targetDir: {x: 0, y: 0, z: 0}

@@ -16,7 +16,7 @@ namespace _Scripts
     
         public int damage = 1;
         public float attackRage = 20f;
-        public float attackRage2 = 2.5f;
+        public float attackRage2 = 2f;
         public Transform attackPoint;
         public LayerMask enemyLayers;
         [HideInInspector]public bool onAttack;
@@ -129,7 +129,7 @@ namespace _Scripts
                             AttackAnimation();
                         }
                         Attack(damage);
-                        nextAttackTime = Time.time + 1f / attackRate;
+                        nextAttackTime = Time.time + 2f / attackRate;
                         //HpPlayer.mana += 1;
                     }
                 }

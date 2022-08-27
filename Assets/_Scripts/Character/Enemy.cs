@@ -15,7 +15,7 @@ public class Enemy : MonoBehaviour
     public float speed = 3f;
     public float minimumDistance;
     public float attackRate = 1f;
-    public int damage = 1;
+    public int damage;
     public float attackRage = 0.5f;
 
     [HideInInspector] public float nextAttackTime = 0f;
