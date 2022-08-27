@@ -326,7 +326,8 @@ namespace _Scripts
                 activeWhenButtonCall.SetActive(true);
                 player.onAttack = true;
                 Instantiate(vfxShield, transform.position, Quaternion.identity);
-                enemy.damage -= 3;
+                TakeDamage(0);
+                //enemy.damage -= 3;
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
