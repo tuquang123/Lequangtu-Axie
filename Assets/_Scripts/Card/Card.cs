@@ -94,35 +94,27 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
 
     private void UseSkill()
     {
-        float time = 1f;
+        var scale = this.gameObject.transform.localScale;
         var sequence = DOTween.Sequence()
-                .Append(this.gameObject.transform.DOJump(new Vector2(-4.8f, -1.3f), 3.5f, 1, time))
+                .Append(this.gameObject.transform.DOScale(scale * 1.3f, 1.5f))
                 .SetLoops(1);
-        var scale = this.gameObject.transform.localScale * 1.1f;
-        this.gameObject.transform.DOScale(scale, time);
+        //this.gameObject.transform.DOScale(scale, time);
 
         Debug.Log("use skill");
         this.PostEvent(EventID.OnUseCard, this);
 
         GameObject game = this.gameObject;
 
-        StartCoroutine(MoveCard(time, game));
+        StartCoroutine(MoveCard(game));
     }
 
-    IEnumerator MoveCard(float time, GameObject mgameObject)
+    IEnumerator MoveCard( GameObject mgameObject)
     {
-        yield return new WaitForSeconds(time);
-        //var scale = this.gameObject.transform.localScale * 1.2f;
-        //mgameObject.transform.DOScale(scale, 0.6f);
-        StartCoroutine(ScalseCard(mgameObject));
-
-    }
-
-    IEnumerator ScalseCard(GameObject mgameObject)
-    {
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1.5f);
         Destroy(mgameObject);
+
     }
+
 
     public void SetSelectable(bool isSelectable)
     {
