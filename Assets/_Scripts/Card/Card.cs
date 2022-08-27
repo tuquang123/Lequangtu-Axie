@@ -94,11 +94,11 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
 
     private void UseSkill()
     {
-        float time = 0.8f;
+        float time = 1f;
         var sequence = DOTween.Sequence()
-                .Append(this.gameObject.transform.DOJump(new Vector2(4.5f, 1), 2.3f, 1, time))
+                .Append(this.gameObject.transform.DOJump(new Vector2(-4.8f, -1.3f), 3.5f, 1, time))
                 .SetLoops(1);
-        var scale = this.gameObject.transform.localScale * 1.2f;
+        var scale = this.gameObject.transform.localScale * 1.1f;
         this.gameObject.transform.DOScale(scale, time);
 
         Debug.Log("use skill");
