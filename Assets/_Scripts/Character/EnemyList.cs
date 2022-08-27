@@ -8,7 +8,8 @@ using UnityEngine.SceneManagement;
 
 public class EnemyList : MonoBehaviour
 {
-    //public Player playerClass;
+    public CameraShake cameraShake;
+    //public GameObject panelWaning;
     public GameObject player;
     public GameObject loading;
     //public GameObject panelWin;
@@ -60,7 +61,7 @@ public class EnemyList : MonoBehaviour
                 //uiManager.PanelFadeIn(2);
             }
             win = true;
-            Invoke(nameof(ActiveLoading), 10f);
+            Invoke(nameof(ActiveLoading), 7f);
         }
     }
     void RemoveList()
@@ -68,10 +69,19 @@ public class EnemyList : MonoBehaviour
         for (int i = 0; i < objects.Count; i++)
         {
             Transform obj = this.objects[i];
+            /*if (i==3)
+            {
+                panelWaning.SetActive(true);
+                Invoke("Dis", 1.5f);
+            }*/
             if (obj.gameObject.activeSelf) continue;
             objects.Remove(obj);
             
         }
+    }
+    private void Dis()
+    {
+        //panelWaning.SetActive(false);
     }
     private void Update()
     {

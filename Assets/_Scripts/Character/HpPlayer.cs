@@ -213,6 +213,7 @@ namespace _Scripts
         }
         public void Skill2Dame()
         {
+            skillImage1.SetActive(true);
                 //cameraShake.Shake();
                 thurder.Play();
 
@@ -232,6 +233,7 @@ namespace _Scripts
         }
         public void Skill3Hp()
         {
+            skillImage2.SetActive(true);
                 //cameraShake.Shake();
                 thurder.Play();
 

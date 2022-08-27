@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/_Scene/ScenePlay/SelectCard.unity
     guid: 906abc9ed87d94f46947ac9edcba2077
   - enabled: 1
-    path: Assets/_Scene/ScenePlay/Battle.unity
-    guid: 3e62be8942ba54570a24aa9cc83af773
+    path: Assets/_Scene/ScenePlay/Battle 1.unity
+    guid: df353828ed93f684ca1abc29d281091d
   m_configObjects: {}
