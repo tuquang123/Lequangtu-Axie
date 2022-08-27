@@ -90,7 +90,7 @@ public class Enemy : MonoBehaviour
         skeletonAnimation.timeScale = 1f;
         if(boss)
         {
-            skeletonAnimation.AnimationState.SetAnimation(0, "Attack", false);
+            skeletonAnimation.AnimationState.SetAnimation(0, "attack/melee/normal-attack", false);
         }
         else
         {

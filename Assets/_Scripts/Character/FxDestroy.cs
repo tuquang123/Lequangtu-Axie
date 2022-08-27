@@ -6,12 +6,6 @@ public class FxDestroy : MonoBehaviour
 {
     void Start()
     {
-        //Destroy(gameObject, .8f);
+        Destroy(gameObject, 1.4f);
     }
-    void Destroy()
-    {
-        Destroy(gameObject);
-    }
-    
-
 }
