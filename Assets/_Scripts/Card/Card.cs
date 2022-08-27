@@ -14,10 +14,13 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
     [SerializeField] public CardID id;
     [SerializeField] private bool _isSelect;
     [SerializeField] private bool _isInteractable;
+    [SerializeField] private bool _isInMenuMode;
+    [SerializeField] private bool _isSelectInMenuMode;
 
     [SerializeField] private CardDataConfig _cardDataConfig;
     [SerializeField] private TMP_Text m_name;
     [SerializeField] private TMP_Text m_description;
+    [SerializeField] private GameObject _blackCover;
     public void SetData(CardID cardID)
     {
         var cardData = _cardDataConfig.GetValueFromKey(cardID);
@@ -53,6 +56,13 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
     public void OnPointerClick(PointerEventData eventData)
     {
         if (!_isInteractable) return;
+
+        if (_isInMenuMode)
+        {
+            SelectInMenuMode();
+            return;
+        }
+        
         
         if (!_isSelect)
         {
@@ -67,6 +77,8 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
 
         }
     }
+
+   
 
     private void EnableCard(bool isEnable)
     {
@@ -95,4 +107,31 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
     {
         _isInteractable = isInteractables;
     }
+
+    public void SetIsInMenuMode()
+    {
+        _isInMenuMode = true;
+    }
+    
+    public void SetBlackCover(bool isCover)
+    {
+        _blackCover.SetActive(isCover);
+    }
+    
+    private void SelectInMenuMode()
+    {
+        Debug.Log("click");
+        
+        
+        if (!_isSelectInMenuMode && CardCollection.s_selectedCards.Count >= CardCollection.s_maxCard)
+        {
+            return;
+        }
+        
+        _isSelectInMenuMode = !_isSelectInMenuMode;
+        SetBlackCover(!_isSelectInMenuMode);
+        this.PostEvent(EventID.OnSelectCard, this.id);
+
+    }
+
 }
