@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 6
   name: Rain
-  description: Make a rain
+  description: Creates a rain that damages the enemy
   sprite: {fileID: 21300000, guid: a2e72ed9227f4a74aa1250b8862c9be5, type: 3}
