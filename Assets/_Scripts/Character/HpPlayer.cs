@@ -24,9 +24,6 @@ namespace _Scripts
         public GameObject skillImage1;
         public GameObject skillImage2;
         public GameObject skill;
-        public GameObject skill2;
-        public GameObject skill3;
-        public GameObject fxThunder;
         public GameObject fxExplosive;
         public GameObject fxPlazma;
         public GameObject floatTextPrefab;
@@ -98,63 +95,49 @@ namespace _Scripts
             
             _mana3 += 1f * Time.deltaTime;
             _mana3 = Mathf.Clamp(_mana3, 0f, maxMana3);
-            
-            
         }
 
         private void UseSkill(Card card)
         {
             if (card.id == CardID.Bumm)
             {
-                Skill2();
+                Skill1Bumm();
             }
             if (card.id == CardID.Dame)
             {
-                Skill3();
+                Skill2Dame();
             }
-        }
-        public void Skill2()
-        {
-            player.onAttack = true;
-            Instantiate(skill3, transform.position, Quaternion.identity);
-            Instantiate(fxExplosive,player.target.transform.position,Quaternion.identity);
-                
-            //animation
-            _skeletonAnimation.timeScale = 0.5f;
-            _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
-            Debug.Log("attack/ranged/cast-fly");
-            _mana3 = 0;
-            //panel
-            skillPanel.SetActive(true);
-            Invoke(nameof(Disable), 2f);
-            //dame
-            player.Attack(15);
-        
-        }
-        //call to button 
-        public void Skill3()
-        {
-            if(!_skillAfterActive && !skillActiveMain)
+            if (card.id == CardID.Hp)
             {
-                cameraShake.Shake();
-                thurder.Play();
-                
-                activeWhenButtonCall.SetActive(true);
-                player.onAttack = true;
-                Instantiate(skill3, transform.position, Quaternion.identity);
-                Instantiate(fxThunder,player.target.transform.position,Quaternion.identity);
-                
-                //animation
-                _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
-                Debug.Log("attack/ranged/cast-fly");
-                _mana3 = 0;
-                //panel
-                skillPanel.SetActive(true);
-                Invoke(nameof(Disable), 2f);
-                //dame
-                player.Attack(15);
-                skillActiveMain = true;
+                Skill3Hp();
+            }
+            if (card.id == CardID.Land)
+            {
+                Skill4Land();
+            }
+            if (card.id == CardID.Light)
+            {
+                Skill5Light();
+            }
+            if (card.id == CardID.Rain)
+            {
+                Skill6Rain();
+            }
+            if (card.id == CardID.Shield)
+            {
+                Skill7Shield();
+            }
+            if (card.id == CardID.Thunder)
+            {
+                Skill8Thunder();
+            }
+            if (card.id == CardID.Water)
+            {
+                Skill9Water();
+            }
+            if (card.id == CardID.Winter)
+            {
+                Skill10Winter();
             }
         }
         void Disable()
@@ -207,8 +190,6 @@ namespace _Scripts
         // Script Skill                
         public void Skill1Bumm()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -226,12 +207,9 @@ namespace _Scripts
                 //dame
                 player.Attack(20);
                 skillActiveMain = true;
-            }
         }
         public void Skill2Dame()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -248,13 +226,9 @@ namespace _Scripts
                 //panel
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
-
-            }
         }
         public void Skill3Hp()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -272,12 +246,9 @@ namespace _Scripts
                 //panel
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
-            }
         }
         public void Skill4Land()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -295,12 +266,9 @@ namespace _Scripts
                 //dame
                 player.Attack(20);
                 skillActiveMain = true;
-            }
         }
         public void Skill5Light()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -318,12 +286,9 @@ namespace _Scripts
                 //dame
                 player.Attack(25);
                 skillActiveMain = true;
-            }
         }
         public void Skill6Rain()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -341,12 +306,9 @@ namespace _Scripts
                 //dame
                 player.Attack(25);
                 skillActiveMain = true;
-            }
         }
         public void Skill7Shield()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -362,12 +324,9 @@ namespace _Scripts
                 //panel
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
-            }
         }
         public void Skill8Thunder()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -385,12 +344,9 @@ namespace _Scripts
                 //dame
                 player.Attack(25);
                 skillActiveMain = true;
-            }
         }
         public void Skill9Water()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -408,12 +364,9 @@ namespace _Scripts
                 //dame
                 player.Attack(20);
                 skillActiveMain = true;
-            }
         }
         public void Skill10Winter()
         {
-            if (!_skillAfterActive && !skillActiveMain)
-            {
                 cameraShake.Shake();
                 thurder.Play();
 
@@ -431,9 +384,7 @@ namespace _Scripts
                 //dame
                 player.Attack(30);
                 skillActiveMain = true;
-            }
         }
-
 
         void Die()
         {

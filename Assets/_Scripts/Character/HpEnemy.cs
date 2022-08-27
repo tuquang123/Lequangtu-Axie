@@ -54,7 +54,6 @@ namespace _Scripts
        
         void Die()
         {
-            
             transform.gameObject.SetActive(false);
             Instantiate(deathEffect, transform.position, Quaternion.identity);
         }
