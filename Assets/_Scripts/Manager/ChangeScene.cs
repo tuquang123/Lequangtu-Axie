@@ -8,25 +8,19 @@ namespace _Scripts
     public class ChangeScene : MonoBehaviour
     {
         public GameObject player;
-        public GameObject loading;
     
         public void Change1(int index)
         {
             player.SetActive(false);
-            loading.SetActive(true);
-            //SceneManager.LoadScene(1);
-            //Invoke(Next(index),2f);
-            StartCoroutine(g2(index));
-
+            g2(index);
         }
         void Next(int index)
         {
             SceneManager.LoadScene(index);
         }
 
-        IEnumerator g2(int index)
+        private void g2(int index)
         {
-            yield return new WaitForSeconds(0);
             SceneManager.LoadScene(index);
         }
     }
