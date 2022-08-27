@@ -32,6 +32,7 @@ namespace _Scripts
         public GameObject fx;
 
         //VFX Skill
+        public GameObject vfxBeforeSkill;
         public GameObject vfxBumm;
         public GameObject vfxDame;
         public GameObject vfxHp;
@@ -195,11 +196,13 @@ namespace _Scripts
 
                 activeWhenButtonCall.SetActive(true);
                 player.onAttack = true;
+
+                Instantiate(vfxBeforeSkill, transform.position, Quaternion.identity);
                 Instantiate(vfxBumm, player.target.transform.position, Quaternion.identity);
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/melee/tail-smash", false); // shot
                 _mana3 = 0;
                 //panel
                 skillPanel.SetActive(true);
@@ -221,7 +224,7 @@ namespace _Scripts
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _skeletonAnimation.AnimationState.SetAnimation(0, "battle/get-buff", false); // shot
                 _mana3 = 0;
                 //panel
                 skillPanel.SetActive(true);
@@ -241,7 +244,7 @@ namespace _Scripts
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _skeletonAnimation.AnimationState.SetAnimation(0, "battle/get-buff", false); // shot
                 _mana3 = 0;
                 //panel
                 skillPanel.SetActive(true);
@@ -254,11 +257,13 @@ namespace _Scripts
 
                 activeWhenButtonCall.SetActive(true);
                 player.onAttack = true;
+
+                Instantiate(vfxBeforeSkill, transform.position, Quaternion.identity);
                 Instantiate(vfxLand, player.target.transform.position, Quaternion.identity);
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/melee/tail-thrash", false); // shot
                 _mana3 = 0;
                 //panel
                 skillPanel.SetActive(true);
@@ -274,11 +279,13 @@ namespace _Scripts
 
                 activeWhenButtonCall.SetActive(true);
                 player.onAttack = true;
+
+                Instantiate(vfxBeforeSkill, transform.position, Quaternion.identity);
                 Instantiate(vfxLight, player.target.transform.position, Quaternion.identity);
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/melee/mouth-bite", false); // shot
                 _mana3 = 0;
                 //panel
                 skillPanel.SetActive(true);
@@ -294,11 +301,13 @@ namespace _Scripts
 
                 activeWhenButtonCall.SetActive(true);
                 player.onAttack = true;
+
+                Instantiate(vfxBeforeSkill, transform.position, Quaternion.identity);
                 Instantiate(vfxRain, player.target.transform.position, Quaternion.identity);
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-multi", false); // shot
                 _mana3 = 0;
                 //panel
                 skillPanel.SetActive(true);
@@ -319,7 +328,7 @@ namespace _Scripts
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _skeletonAnimation.AnimationState.SetAnimation(0, "defense/evade", false); // shot
                 _mana3 = 0;
                 //panel
                 skillPanel.SetActive(true);
@@ -332,6 +341,8 @@ namespace _Scripts
 
                 activeWhenButtonCall.SetActive(true);
                 player.onAttack = true;
+
+                Instantiate(vfxBeforeSkill, transform.position, Quaternion.identity);
                 Instantiate(vfxThunder, player.target.transform.position, Quaternion.identity);
 
                 //animation
@@ -352,6 +363,8 @@ namespace _Scripts
 
                 activeWhenButtonCall.SetActive(true);
                 player.onAttack = true;
+
+                Instantiate(vfxBeforeSkill, transform.position, Quaternion.identity);
                 Instantiate(vfxWater, player.target.transform.position, Quaternion.identity);
 
                 //animation
@@ -372,11 +385,13 @@ namespace _Scripts
 
                 activeWhenButtonCall.SetActive(true);
                 player.onAttack = true;
+
+                Instantiate(vfxBeforeSkill, transform.position, Quaternion.identity);
                 Instantiate(vfxWinter, player.target.transform.position, Quaternion.identity);
 
                 //animation
                 _skeletonAnimation.timeScale = 0.5f;
-                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-fly", false); // shot
+                _skeletonAnimation.AnimationState.SetAnimation(0, "attack/ranged/cast-tail", false); // shot
                 _mana3 = 0;
                 //panel
                 skillPanel.SetActive(true);
