@@ -7606,6 +7606,11 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1319747130}
+    - target: {fileID: 2588774192276220572, guid: 0d7211d26b5d4b64e9bcb588339ff393,
+        type: 3}
+      propertyPath: _animationName
+      value: action/move-forward
+      objectReference: {fileID: 0}
     - target: {fileID: 2588774192276220574, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}
       propertyPath: m_Mesh
@@ -7766,6 +7771,11 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1654915583}
+    - target: {fileID: 5588155424951186997, guid: 1bf26164110252e4981ddef71fb48bef,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1.184
+      objectReference: {fileID: 0}
     - target: {fileID: 6165460409368920896, guid: 1bf26164110252e4981ddef71fb48bef,
         type: 3}
       propertyPath: m_Name
