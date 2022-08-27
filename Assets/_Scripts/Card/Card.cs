@@ -11,7 +11,7 @@ using Image = UnityEngine.UI.Image;
 
 public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , IPointerClickHandler
 {
-    [SerializeField] public string id;
+    [SerializeField] public CardID id;
     [SerializeField] private bool _isSelect;
     [SerializeField] private bool _isInteractable;
 
@@ -76,7 +76,7 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler , I
     {
         Debug.Log("select card");
         _isSelect = true;
-        this.PostEvent(EventID.OnSelectCard, this);
+        this.PostEvent(EventID.OnSelectCard, this.id);
     }
 
     private void UseSkill()

@@ -104,11 +104,11 @@ namespace _Scripts
 
         private void UseSkill(Card card)
         {
-            if (card.id == "skill2")
+            if (card.id == CardID.Bumm)
             {
                 Skill2();
             }
-            if (card.id == "skill3")
+            if (card.id == CardID.Dame)
             {
                 Skill3();
             }
