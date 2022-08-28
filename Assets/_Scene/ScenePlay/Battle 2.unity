@@ -4095,7 +4095,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 740f88988fcd644fca8f834e99d2578f, type: 2}
+      objectReference: {fileID: 2100000, guid: 18baedb9a0b984d4ba3a6f019abecf91, type: 2}
     - target: {fileID: 3339958213508644235, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}
       propertyPath: m_Name
@@ -5242,7 +5242,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -2
-  m_Sprite: {fileID: 21300000, guid: 6608eeb2708a23c419fe9aaf46f560dc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6fabda1d79def424ca4beb33fb169fd7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -10773,7 +10773,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: f7247b588e2d24af0a69ae979827e4c2, type: 2}
+      objectReference: {fileID: 2100000, guid: 44cde2cc85f6644448de2d615c379c3a, type: 2}
     - target: {fileID: 3339958213508644235, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}
       propertyPath: m_Name
@@ -11037,7 +11037,7 @@ PrefabInstance:
         type: 3}
       propertyPath: skeletonDataAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 746488e4088634ceabd3bca7e9fb5f89,
+      objectReference: {fileID: 11400000, guid: 9c5f971d81c5b4ca88949ad1d9548f71,
         type: 2}
     - target: {fileID: 2588774192276220574, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}
@@ -11048,7 +11048,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: b26e75be71fdd493f8e870022321c5da, type: 2}
+      objectReference: {fileID: 2100000, guid: 3207002d98f0044e7b688d9689e63f05, type: 2}
     - target: {fileID: 3339958213508644235, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}
       propertyPath: m_Name
@@ -11424,7 +11424,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -2
-  m_Sprite: {fileID: 21300000, guid: 6608eeb2708a23c419fe9aaf46f560dc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6a836bf475302a9409c01eb8901c1fcf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -11482,11 +11482,22 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1319747130}
+    - target: {fileID: 2588774192276220572, guid: 0d7211d26b5d4b64e9bcb588339ff393,
+        type: 3}
+      propertyPath: skeletonDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: a50118a816670490f9edd1e600c0edd2,
+        type: 2}
     - target: {fileID: 2588774192276220574, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 2588774192276220575, guid: 0d7211d26b5d4b64e9bcb588339ff393,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 04b40ce521aee43348177fc4a6ac2dd0, type: 2}
     - target: {fileID: 3339958213508644235, guid: 0d7211d26b5d4b64e9bcb588339ff393,
         type: 3}
       propertyPath: m_Name
