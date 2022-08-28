@@ -123,6 +123,8 @@ namespace _Scripts
         }
         private void Update()
         {
+            if (!isActive) return;
+            
             if (target == null)
             {
                 //anm.SetBool(Run, false);

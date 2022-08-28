@@ -44,7 +44,7 @@ public class EnemyList : MonoBehaviour
             //trigger boss
             cameraShake.anm.SetTrigger("camboss");
             _bossEffect.SetActive(true);
-            Destroy(_bossEffect.gameObject,1f);
+            Destroy(_bossEffect.gameObject,2f);
         }
         
         if (enemyPref.Count > 0)
