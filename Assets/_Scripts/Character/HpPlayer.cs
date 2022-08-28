@@ -208,7 +208,7 @@ namespace _Scripts
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
                 //dame
-                player.Attack(20);
+                player.Attack(45);
                 skillActiveMain = true;
         }
         public void Skill2Dame()
@@ -271,7 +271,7 @@ namespace _Scripts
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
                 //dame
-                player.Attack(20);
+                player.Attack(50);
                 skillActiveMain = true;
         }
         public void Skill5Light()
@@ -293,7 +293,7 @@ namespace _Scripts
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
                 //dame
-                player.Attack(25);
+                player.Attack(40);
                 skillActiveMain = true;
         }
         public void Skill6Rain()
@@ -315,7 +315,7 @@ namespace _Scripts
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
                 //dame
-                player.Attack(25);
+                player.Attack(50);
                 skillActiveMain = true;
         }
         public void Skill7Shield()
@@ -356,7 +356,7 @@ namespace _Scripts
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
                 //dame
-                player.Attack(25);
+                player.Attack(35);
                 skillActiveMain = true;
         }
         public void Skill9Water()
@@ -378,7 +378,7 @@ namespace _Scripts
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
                 //dame
-                player.Attack(20);
+                player.Attack(50);
                 skillActiveMain = true;
         }
         public void Skill10Winter()
@@ -400,7 +400,7 @@ namespace _Scripts
                 skillPanel.SetActive(true);
                 Invoke(nameof(Disable), 2f);
                 //dame
-                player.Attack(30);
+                player.Attack(55);
                 skillActiveMain = true;
         }
 
