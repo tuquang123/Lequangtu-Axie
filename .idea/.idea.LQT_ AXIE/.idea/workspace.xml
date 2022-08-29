@@ -4,28 +4,1294 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0295cf66-707e-4d2f-a885-0f0e34c6e8b8" name="Changes" comment="" />
+    <list default="true" id="0295cf66-707e-4d2f-a885-0f0e34c6e8b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LQT_ AXIE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LQT_ AXIE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/DemoScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/DemoScene/SunshineForest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/DemoScene/SunshineForest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image/8378.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image/8378.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image/layer0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image/layer0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image/layer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image/layer1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image/layer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Image/layer2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Prefab/SunshineForest.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/2436_1125/Prefab/SunshineForest.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/DemoScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/DemoScene/SunshineForest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/DemoScene/SunshineForest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Image.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Image/layer0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Image/layer0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Image/layer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Image/layer1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Image/layer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Image/layer2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Prefab/SunshineForest.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/4096_2160/Prefab/SunshineForest.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/Get full backgrounds pack.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/2D_Background_SunshineForest/2D_Horizontal_battle_Enviroment_05/Get full backgrounds pack.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Brawler.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Brawler/Brawler1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Brawler/Brawler1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Brawler/Brawler18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Brawler/Brawler18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/DemonHunter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/DemonHunter/DemonHunter20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/DemonHunter/DemonHunter20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/DemonHunter/DemonHunter8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/DemonHunter/DemonHunter8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Hunter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Hunter/Hunter1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Hunter/Hunter1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Hunter/Hunter10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Hunter/Hunter10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Ranger.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Ranger/Ranger2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Ranger/Ranger2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Ranger/Ranger7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Ranger/Ranger7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Rogue.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Rogue/Rogue11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Rogue/Rogue11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Rogue/Rogue3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Assassin/Rogue/Rogue3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Arcanist.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Arcanist/Arcanist1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Arcanist/Arcanist1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Arcanist/Arcanist15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Arcanist/Arcanist15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Cryomancer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Cryomancer/Cryomancer17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Cryomancer/Cryomancer17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Cryomancer/Cryomancer4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Cryomancer/Cryomancer4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Electromancer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Electromancer/Electromancer16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Electromancer/Electromancer16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Electromancer/Electromancer3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Electromancer/Electromancer3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Geomancer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Geomancer/Geomancer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Geomancer/Geomancer2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Geomancer/Geomancer5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Geomancer/Geomancer5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Pyromancer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Pyromancer/Pyromancer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Pyromancer/Pyromancer2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Pyromancer/Pyromancer7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Elementalist/Pyromancer/Pyromancer7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Cultist.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Cultist/Cultist12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Cultist/Cultist12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Cultist/Cultist2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Cultist/Cultist2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Medium.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Medium/Medium10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Medium/Medium10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Medium/Medium15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Medium/Medium15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Necromancer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Necromancer/Necromancer13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Necromancer/Necromancer13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Necromancer/Necromancer3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Necromancer/Necromancer3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Paladin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Paladin/Paladin10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Paladin/Paladin10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Paladin/Paladin14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Paladin/Paladin14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Priest.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Priest/Priest13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Priest/Priest13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Priest/Priest8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/HolyDarkness/Priest/Priest8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Beastmaster.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Beastmaster/BeastMaster19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Beastmaster/BeastMaster19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Beastmaster/BeastMaster4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Beastmaster/BeastMaster4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Druid.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Druid/Druid2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Druid/Druid2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Druid/Druid9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Druid/Druid9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Enchanter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Enchanter/Enchanter18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Enchanter/Enchanter18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Enchanter/Enchanter2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Enchanter/Enchanter2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shaman.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shaman/Shaman1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shaman/Shaman1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shaman/Shaman17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shaman/Shaman17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shapeshifter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shapeshifter/ShapeShifter20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shapeshifter/ShapeShifter20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shapeshifter/ShapeShifter3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Symbiose/Shapeshifter/ShapeShifter3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Barbarian.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Barbarian/Barbarian14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Barbarian/Barbarian14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Barbarian/Barbarian20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Barbarian/Barbarian20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Berserker.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Berserker/Berserker10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Berserker/Berserker10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Berserker/Berserker13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Berserker/Berserker13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Deathknight.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Deathknight/Deathknight14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Deathknight/Deathknight14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Deathknight/Deathknight8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Deathknight/Deathknight8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Dragonknight.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Dragonknight/Dragonknight18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Dragonknight/Dragonknight18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Dragonknight/Dragonknight4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Dragonknight/Dragonknight4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Guardian.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Guardian/Guardian20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Guardian/Guardian20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Guardian/Guardian8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Blink/Art/Icons/Classes/Warrior/Guardian/Guardian8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/Demo/SKILL SET DEMO.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/Demo/SKILL SET DEMO.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Arrow_Barrage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Arrow_Barrage.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Beam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Beam.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Blackhole.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Blackhole.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Buff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Buff.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Chop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Chop.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Claw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Claw.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Dash.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Fly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Fly.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Heal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Heal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_MeteorShower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_MeteorShower.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Pound.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Pound.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_PsycicAttack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_PsycicAttack.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Punches.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Punches.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Recon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Recon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Reflect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Reflect.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Slash.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Slide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_Slide.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_SpiritArrows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Homeless/UI Assets/Ability_Skill_Icons/UI_Skill_Icon_SpiritArrows.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials/ThaleahFat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials/ThaleahFat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials/ThaleahFat.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials/ThaleahFat_TTF.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Materials/Thaleah_DemoBackground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/ThaleahFat.fontsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/ThaleahFat.fontsettings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Thaleah_Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Thaleah_Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Thaleah_Readme.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/Thaleah_PixelFont/Thaleah_Readme.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Attack.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Attack.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Dead.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Dead.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Effect 1 - Sprite Sheet_0.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Effect 1 - Sprite Sheet_0.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/FX.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/FX.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/FxAttack.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/FxAttack.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Idle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Idle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Popup.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Popup.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Popup.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Popup.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Rotion.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Rotion.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Run.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/Run.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/attE.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/attE.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/deadE.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/deadE.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/enemy.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/enemy.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/fxDead.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/fxDead.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/hurt.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/hurt.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/hurtE.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/hurtE.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/idleE.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/idleE.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/player.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/player.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/player1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/player1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/rotate.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/rotate.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/runE.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Animation/runE.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/0_Hair/Hair_9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/1_FaceHair/FaceHair_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/2_Cloth/Cloth_9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant/Foot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant/Foot_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant/Foot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant/Foot_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant/Foot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant/Foot_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant/Foot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/3_Pant/Foot_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/4_Helmet/Helmet_9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/5_Armor/Armor_8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Axe_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Axe_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Bow_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Bow_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Shield_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Shield_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Soon_Spear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Soon_Spear.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Spear_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Spear_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Sword_6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Ward_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/6_Weapons/Ward_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/Back_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/Back_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/Back_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/Back_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/Back_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/Back_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/BowBack_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/BowBack_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/Soon_Back1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Items/7_Back/Soon_Back1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/0_Hair/Normal_Hair9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/1_FaceHair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/1_FaceHair/Normal_Mustache1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/1_FaceHair/Normal_Mustache1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/1_FaceHair/Normal_Mustache2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/1_FaceHair/Normal_Mustache2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/2_Cloth.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/2_Cloth/Normal_Cloth1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/2_Cloth/Normal_Cloth1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/4_Helmet.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/4_Helmet/Normal_Helmet1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/4_Helmet/Normal_Helmet1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/4_Helmet/Normal_Helmet2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/4_Helmet/Normal_Helmet2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/4_Helmet/Normal_Helmet3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/4_Helmet/Normal_Helmet3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/5_Armor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/5_Armor/Normal_Armor1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/5_Armor/Normal_Armor1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/AxeLong1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/AxeLong1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/AxeNormal1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/AxeNormal1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/AxeSmall1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/AxeSmall1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/SteelShield1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/SteelShield1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/WoodShield1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/WoodShield1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/WoodShield2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/WoodShield2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/WoodShield3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/WoodShield3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/WoodShield4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver121/6_Weapons/WoodShield4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/0_Hair/New_Hair_20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/2_Cloth/New_Cloth_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/3_Pant/New_Pant_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/4_Helmet/New_Helmet_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/5_Armor/New_Armor_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Shield_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Shield_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Shield_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Shield_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Shield_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Shield_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Shield_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Shield_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_Weapon_20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_weapon_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/6_Weapons/New_weapon_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/7_Back.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/7_Back/New_Back_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/7_Back/New_Back_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/7_Back/New_Back_02.Png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Sprites/Packages/Ver300/7_Back/New_Back_02.Png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Player 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Player 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit000.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit000.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit001.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit001.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit002.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit002.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit003.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit003.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit004.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit004.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit005.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit005.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit006.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit006.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit007.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit007.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit008.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit008.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit009.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Resources/SPUM/SPUM_Units/Unit009.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect 1 - Sprite Sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect 1 - Sprite Sheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect 2 - Sprite Sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect 2 - Sprite Sheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect 3 - Sprite Sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect 3 - Sprite Sheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect 4 - Sprite Sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect 4 - Sprite Sheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect1 Gameboy Spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect1 Gameboy Spritesheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect3 Gameboy Spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect3 Gameboy Spritesheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect4 Gameboy Spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effect4 Gameboy Spritesheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effectst2 Gameboy Spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Effectst2 Gameboy Spritesheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/New Animation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/New Animation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Sword_5.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/Sword_5.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/rotate.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/Effects/rotate.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/pngwing.com.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spum/Texture/pngwing.com.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets/axie-playground.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets/axie-playground/axie_playground_macOS_0.0.0.1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets/skeleton-datas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets/skeleton-datas/chimera.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets/sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets/sprites/class-icon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets/sprites/effect-icon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/axie-hackathon-assets/sprites/part-icon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_21.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_22.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_23.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_24.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_25.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_26.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_27.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_28.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_29.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Banners/Banner_30.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_grey.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_violet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_violet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_01_yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_blue01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_blue01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_blue02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_blue02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_violet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_violet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/fantasybanners/Flags/flag_02_yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1388.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1388.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1389.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1389.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1390.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1390.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1391.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1391.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1392.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1392.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1393.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1393.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1394.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1394.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1395.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1395.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1398.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1398.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1399.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1399.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1400.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1401.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1401.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1402.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1402.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1470.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1470.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1471.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1471.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1472.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1472.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1473.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small1473.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2268.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2268.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2268.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2268.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2269.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2269.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2270.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2270.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2271.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/Small2271.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/axie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/axie.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/chevron-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/chevron-down.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/aquatic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/aquatic.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/beast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/beast.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/bird.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/bird.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/bug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/bug.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/dawn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/dawn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/dusk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/dusk.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/japan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/japan.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/mech.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/mech.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/plant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/plant.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/reptile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/reptile.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/summer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/summer.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/xmas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/class-icons/xmas.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/favicon.ico.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/floor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/floor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/fx.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/fx.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/back.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/body.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/ears.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/ears.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/eyes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/eyes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/horn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/horn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/mouth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/mouth.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/tail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/part-icons/tail.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/puff-loading.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/puff-loading/puff-loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/puff-loading/puff-loading.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/public/vercel.svg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/beastmen.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/beastmen.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/demons.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/demons.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/dwarves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/dwarves.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/elves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/elves.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/humans.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/humans.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/lizardman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/lizardman.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/orcs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/orcs.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/undead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/undead.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/werewolf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/werewolf.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/wood_elves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_png/wood_elves.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/beastmen.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/beastmen.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/demons.PSD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/demons.PSD.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/dwarves.PSD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/dwarves.PSD.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/elves.PSD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/elves.PSD.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/humans.PSD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/humans.PSD.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/lizardman.PSD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/lizardman.PSD.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/orcs.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/orcs.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/undead.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/undead.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/werewolf.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/werewolf.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/wood_elves.PSD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/racesbadges/RacesBadges_psd/wood_elves.PSD.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-1-be-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-1-be-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-1-de-dash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-1-de-dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-1-ee-wind.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-1-ee-wind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-1-me-stab.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-1-me-stab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-2-de-dash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-2-de-dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-2-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-2-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-2-me-knuckle-shot.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-2-me-knuckle-shot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-3-curve-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-3-curve-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-3-de-jump.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._air-3-de-jump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-1-be-focus.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-1-be-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-1-mi-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-1-mi-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-14-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-14-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-2-mi-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-2-mi-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-2-re-strike-down.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-2-re-strike-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-3-re-lighting.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-3-re-lighting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-5-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-5-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-6-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-6-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-7-sre-ball.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-7-sre-ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-8-sre-ball.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-8-sre-ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-9-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._electric-9-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-1-be-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-1-be-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-1-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-1-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-1-mi-quarter.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-1-mi-quarter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-1-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-1-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-11-me-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-11-me-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-12-me-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-12-me-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-16-sre.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-16-sre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-2-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-2-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-2-me-chop.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-2-me-chop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-3-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-3-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-4-be-focus.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-4-be-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-6-be-mirror.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-6-be-mirror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-7-be-mirror.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-7-be-mirror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-8-me-claw-strike.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy-8-me-claw-strike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy_07-stab.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy_07-stab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy_08-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy_08-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy_16-dash-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy_16-dash-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy_20-whirlwind.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._energy_20-whirlwind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._explosion-2-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._explosion-2-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._explosion-3-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._explosion-3-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._explosion-5-sre.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._explosion-5-sre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._explosion-8-ee-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._explosion-8-ee-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-2-de-charge.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-2-de-charge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-22-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-22-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-3-be-ring.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-3-be-ring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-3-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-3-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-30-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-30-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-4-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-4-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-4-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire-4-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire_01-strike.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire_01-strike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire_08-knock-curve.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire_08-knock-curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire_09-stab.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._fire_09-stab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._flash-1-si.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._flash-1-si.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._line-1-be-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._line-1-be-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-1-de-blink.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-1-de-blink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-1-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-1-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-11-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-11-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-2-de-dash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-2-de-dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-2-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-2-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-2-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-2-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-2-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-2-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-3-de-short.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-3-de-short.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-3-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-3-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-3-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-3-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-4-ee-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-4-ee-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-5-de-surf.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-5-de-surf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-5-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke-5-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke_04.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke_05.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke_10-ring.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke_10-ring.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke_13.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._smoke_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-1-be-focus.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-1-be-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-1-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-1-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-1-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-1-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-1-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-1-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-10-mi-double-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-10-mi-double-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-10-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-10-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-11-mi-multi-hit.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-11-mi-multi-hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-11-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-11-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-13-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-13-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-14-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-14-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-17-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-17-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-2-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-2-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-2-si-side.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-2-si-side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-20-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-20-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-23-me-stab.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-23-me-stab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-25-si-tri.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-25-si-tri.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-26-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-26-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-29-si-particle.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-29-si-particle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-3-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-3-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-4-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-4-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-5-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-5-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-5-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-5-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-6-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-6-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-7-mi-down.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-7-mi-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-8-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-8-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-9-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-9-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-9-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._spark-9-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_05-ricochet.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_05-ricochet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_08.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_09.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_10.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_13_v02.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_13_v02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_16_v02.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._sparks_16_v02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-be-snake.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-be-snake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-de-dash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-de-dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-sre-shot.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-1-sre-shot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-10-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-10-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-11-si-splash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-11-si-splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-13-me-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-13-me-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-14-me-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-14-me-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-15-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-15-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-2-be-half-bubble.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-2-be-half-bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-2-de-dash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-2-de-dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-2-mi-poison.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-2-mi-poison.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-2-si-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-2-si-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-22-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-22-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-24-sre-mi-shot.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-24-sre-mi-shot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-25-me-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-25-me-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-26-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-26-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-27-si-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-27-si-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-3-de-dash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-3-de-dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-3-mi-rear.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-3-mi-rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-3-si-splash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-3-si-splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-4-be-focus.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-4-be-focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-4-ee-step.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-4-ee-step.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-4-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-4-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-be-ball.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-be-ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-de-wave.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-de-wave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-mi-round.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-mi-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-5-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-6-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-6-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-6-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-6-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-7-ee-ground-db.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-7-ee-ground-db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-7-si-up.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-7-si-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-8-ee-ground.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water-8-ee-ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_01-ground-breathe.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_01-ground-breathe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_03-bubble.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_03-bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_12-slash.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_12-slash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_20-stab.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_20-stab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_25.atlas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/__MACOSX/visual-effects/._water_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/visual-effects/visual-effects/air-1-de-dash_SkeletonData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/visual-effects/visual-effects/air-1-de-dash_SkeletonData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/dnma6/Desktop/LQT_ AXIE/Assets/_Animation/Animation/Normal.anim" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/dnma6/Desktop/LQT_ AXIE/Assets/_Animation/Animation/cam.anim.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/dnma6/Desktop/LQT_ AXIE/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/dnma6/Desktop/LQT_ AXIE/UserSettings/EditorUserSettings.asset" root0="SKIP_HIGHLIGHTING" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectId" id="2E0nYAdLgDuChsf62GSv6deJ9pE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Standalone Player.UnitTests (batch mode)">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../gg.app/Contents/MacOS/LeQuangTu" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../gg.app/Contents/MacOS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2020.3.24f1/Unity.app/Contents/MacOS/Unity" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;$PROJECT_DIR$&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
@@ -34,7 +1300,28 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
     </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="fix">
       <created>1661399572371</created>
@@ -64,12 +1351,24 @@
       <option name="project" value="LOCAL" />
       <updated>1661403086245</updated>
     </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0295cf66-707e-4d2f-a885-0f0e34c6e8b8" name="Changes" comment="" />
+      <created>1661741418675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661741418675</updated>
+      <workItem from="1661741430979" duration="3529000" />
+      <workItem from="1661748789416" duration="3000" />
+    </task>
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -82,6 +1381,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="fix" />
     <MESSAGE value="Import feel" />
     <MESSAGE value="Import And Make Card" />
