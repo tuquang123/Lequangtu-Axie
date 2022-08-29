@@ -97,7 +97,14 @@ public class EnemyList : MonoBehaviour
     {
         if (objects.Count == 0)
         {
-            SpawnEnemy();
+            if (!win)
+            {
+                Invoke("Active", 2f);
+                //uiManager.PanelFadeIn(2);
+            }
+            win = true;
+            Invoke(nameof(ActiveLoading), 7f);
+            //SpawnEnemy();
             //playerClass.Win();
         }
     }
